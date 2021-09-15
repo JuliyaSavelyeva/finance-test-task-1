@@ -1,11 +1,6 @@
 
 # Finance-ticker
 
-# airport-react-redux
-
-### [Netlify link](https://cocky-visvesvaraya-dff6a8.netlify.app)
-### [Github link](https://juliyasavelyeva.github.io/airport-react-redux/)
-
 ### The tech stack is:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
